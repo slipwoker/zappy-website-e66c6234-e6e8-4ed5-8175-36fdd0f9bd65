@@ -1,57 +1,47 @@
-# קוסמטולוגיה מתקדמת — Generative Engine Optimization Map
-
-> A קהילה דיגיטלית business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://-e66c6234.zappy5.app
+https://example.com
 הצטרפי לקבוצת וואטסאפ המובילה לקוסמטיקאיות מקצועיות בישראל. קהילה דיגיטלית תומכת עם עדכונים, טיפים וטכניקות מתקדמות.
 
 ### יתרונות הקבוצה
-https://-e66c6234.zappy5.app/benefits
+https://example.com/benefits
 גלי את כל היתרונות של הצטרפות לקבוצת וואטסאפ לקוסמטיקאיות מקצועיות. למידה, תמיכה, עדכונים והזדמנויות לפיתוח מקצועי.
 
 ### אודות
-https://-e66c6234.zappy5.app/about
+https://example.com/about
 קוסמטולוגיה מתקדמת - קהילה דיגיטלית לקוסמטיקאיות מקצועיות בישראל. גלי את הסיפור שלנו, הערכים והמשימה שמנחה אותנו.
 
 ### הצטרפי עכשיו
-https://-e66c6234.zappy5.app/contact
+https://example.com/contact
 מעוניינת להצטרף לקבוצת וואטסאפ לקוסמטיקאיות מקצועיות? צרי קשר עכשיו והצטרפי לקהילה המקצועית המובילה בישראל.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-e66c6234.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-e66c6234.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-e66c6234.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About קוסמטולוגיה מתקדמת
-קוסמטולוגיה מתקדמת is a business in the קהילה דיגיטלית industry.
-
-## Target Audience
-- קוסמטיקאיות מיומנות
-
-## Industry
-קהילה דיגיטלית
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-e66c6234.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-e66c6234.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
