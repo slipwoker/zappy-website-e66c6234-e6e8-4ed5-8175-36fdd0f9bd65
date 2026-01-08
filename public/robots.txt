@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://advanced-cosmetology.zappy5.app/sitemap.xml
+Sitemap: https://zappy-site-e66c6234-e6e8-4ed5-8175.onrender.com/sitemap.xml
