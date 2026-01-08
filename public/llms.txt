@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# קוסמטולוגיה מתקדמת — Generative Engine Optimization Map
+
+> A קהילה דיגיטלית business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://advanced-cosmetology.zappy5.app
+https://zappy-site-e66c6234-e6e8-4ed5-8175.onrender.com
 הצטרפי לקבוצת וואטסאפ המובילה לקוסמטיקאיות מקצועיות בישראל. קהילה דיגיטלית תומכת עם עדכונים, טיפים וטכניקות מתקדמות.
 
 ### יתרונות הקבוצה
-https://advanced-cosmetology.zappy5.app/benefits
+https://zappy-site-e66c6234-e6e8-4ed5-8175.onrender.com/benefits
 גלי את כל היתרונות של הצטרפות לקבוצת וואטסאפ לקוסמטיקאיות מקצועיות. למידה, תמיכה, עדכונים והזדמנויות לפיתוח מקצועי.
 
 ### אודות
-https://advanced-cosmetology.zappy5.app/about
+https://zappy-site-e66c6234-e6e8-4ed5-8175.onrender.com/about
 קוסמטולוגיה מתקדמת - קהילה דיגיטלית לקוסמטיקאיות מקצועיות בישראל. גלי את הסיפור שלנו, הערכים והמשימה שמנחה אותנו.
 
 ### הצטרפי עכשיו
-https://advanced-cosmetology.zappy5.app/contact
+https://zappy-site-e66c6234-e6e8-4ed5-8175.onrender.com/contact
 מעוניינת להצטרף לקבוצת וואטסאפ לקוסמטיקאיות מקצועיות? צרי קשר עכשיו והצטרפי לקהילה המקצועית המובילה בישראל.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://advanced-cosmetology.zappy5.app/privacy
+https://zappy-site-e66c6234-e6e8-4ed5-8175.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://advanced-cosmetology.zappy5.app/terms
+https://zappy-site-e66c6234-e6e8-4ed5-8175.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://advanced-cosmetology.zappy5.app/accessibility
+https://zappy-site-e66c6234-e6e8-4ed5-8175.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About קוסמטולוגיה מתקדמת
+קוסמטולוגיה מתקדמת is a business in the קהילה דיגיטלית industry.
+
+## Target Audience
+- קוסמטיקאיות מיומנות
+
+## Industry
+קהילה דיגיטלית
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://advanced-cosmetology.zappy5.app/sitemap.xml
-- **Robots.txt**: https://advanced-cosmetology.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-e66c6234-e6e8-4ed5-8175.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-e66c6234-e6e8-4ed5-8175.onrender.com/robots.txt
