@@ -1,6 +1,4 @@
-# קוסמטולוגיה מתקדמת — Generative Engine Optimization Map
-
-> A קהילה דיגיטלית business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About קוסמטולוגיה מתקדמת
-קוסמטולוגיה מתקדמת is a business in the קהילה דיגיטלית industry.
-
-## Target Audience
-- קוסמטיקאיות מיומנות
-
-## Industry
-קהילה דיגיטלית
-
+## About Business
 ---
 
 # Additional Resources
