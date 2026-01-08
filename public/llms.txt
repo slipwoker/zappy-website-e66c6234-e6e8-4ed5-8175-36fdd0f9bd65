@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# קוסמטולוגיה מתקדמת — Generative Engine Optimization Map
+
+> A קהילה דיגיטלית business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://example.com
+https://advanced-cosmetology.zappy5.app
 הצטרפי לקבוצת וואטסאפ המובילה לקוסמטיקאיות מקצועיות בישראל. קהילה דיגיטלית תומכת עם עדכונים, טיפים וטכניקות מתקדמות.
 
 ### יתרונות הקבוצה
-https://example.com/benefits
+https://advanced-cosmetology.zappy5.app/benefits
 גלי את כל היתרונות של הצטרפות לקבוצת וואטסאפ לקוסמטיקאיות מקצועיות. למידה, תמיכה, עדכונים והזדמנויות לפיתוח מקצועי.
 
 ### אודות
-https://example.com/about
+https://advanced-cosmetology.zappy5.app/about
 קוסמטולוגיה מתקדמת - קהילה דיגיטלית לקוסמטיקאיות מקצועיות בישראל. גלי את הסיפור שלנו, הערכים והמשימה שמנחה אותנו.
 
 ### הצטרפי עכשיו
-https://example.com/contact
+https://advanced-cosmetology.zappy5.app/contact
 מעוניינת להצטרף לקבוצת וואטסאפ לקוסמטיקאיות מקצועיות? צרי קשר עכשיו והצטרפי לקהילה המקצועית המובילה בישראל.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://advanced-cosmetology.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://advanced-cosmetology.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://advanced-cosmetology.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About קוסמטולוגיה מתקדמת
+קוסמטולוגיה מתקדמת is a business in the קהילה דיגיטלית industry.
+
+## Target Audience
+- קוסמטיקאיות מיומנות
+
+## Industry
+קהילה דיגיטלית
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://advanced-cosmetology.zappy5.app/sitemap.xml
+- **Robots.txt**: https://advanced-cosmetology.zappy5.app/robots.txt
